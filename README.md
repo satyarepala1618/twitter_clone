@@ -1,1 +1,2 @@
-# twitter_clone
+# twitter using Django Framework
+
